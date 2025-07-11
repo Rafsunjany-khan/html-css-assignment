@@ -208,23 +208,6 @@ body {
 }
 
 /* Focus Section */
-/* .focus {
-  padding: 80px 0;
-  background: #f1f1f1;
-  text-align: center;
-}
-
-.focus .content {
-  margin-bottom: 20px;
-}
-
-.focus img {
-  width: 100%;
-  max-width: 800px;
-  border-radius: 6%;
-  height: auto;
-} */
-
 .focus {
   padding: 80px 0;
   background: #f1f1f1;
@@ -246,7 +229,7 @@ body {
 .focus img {
   width: 100%;
   max-width: 800px;
-  border-radius: 6%;
+  border-radius: 5%;
   height: auto;
 }
 
